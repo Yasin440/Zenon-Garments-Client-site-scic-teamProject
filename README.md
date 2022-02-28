@@ -2,7 +2,7 @@ Project Name: Zenon-textile
 
 Team Members: 1.Alamin Hossain 2.Yasin Ahmed 3.Njamul Hasna Shanto 4.Sayen Sadh
 
-Live Site Link:
+Live Site Link: [Zenon-textile](https://zenon-garments.netlify.app/)
 
 Technology Used: React js, React bootstrap, Bootstrap, Firebase Authentication,
                     NodeJS(Express), MongoDB, Heroku(server deploy), firebase hosting(client site deploy)
